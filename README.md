@@ -16,7 +16,7 @@
     
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/helen-fu-4a94b42ab/">
     <img src="https://img.shields.io/badge/linkedin-0a66c2" alt="LinkedIn" />
   </a>
