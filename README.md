@@ -22,7 +22,7 @@
   </a>
 </div>
 <br>
-<img src="./cinna.gif" height="40" /
+<img src="./cinna.gif" height="70" /
 <br><br><br>
     
 </div>
